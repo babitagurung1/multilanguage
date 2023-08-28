@@ -1,0 +1,47 @@
+{
+    "createAccount":"Créer un compte",
+    "login":"Se connecter",
+    "travel":"Voyage",
+    "yourtravel":"Votre voyage vient d'être amélioré",
+    "travelSolution":"Enfin une solution de voyage réservée aux employés des compagnies aériennes",
+    "getstart":"Commencer",
+    "travelContent":{
+        "travelplaces":"Mettre le voyage entre vos mains",
+        "japan":"Japon",
+        "greece":"Grèce",
+        "chicago":"Chicago",
+        "morocco":"Maroc",
+        "aboutjapan":"Au nord, Hokkaido offre des parcs nationaux à grande échelle, des côtes sauvages, une faune rare et l'héritage de la culture aïnoue. Nagano, à moins d'une heure de la métropole animée de Tokyo, propose de magnifiques alpes, des randonnées toute l'année, du ski et du canyoning de classe mondiale.",
+        "aboutgreece":"La Grèce est célèbre pour ses plages incroyables. Avec les nombreuses îles grecques, certaines des plages les plus incroyables d'Europe ! Vous trouverez de nombreux types de plages dans toute la Grèce, certaines avec du sable blanc et d'autres pleines de galets, mais elles ont toutes en commun le magnifique océan turquoise.",
+        "aboutmorocco":"Le Maroc est connu pour sa culture particulièrement riche, centrée sur la religion et la tradition, ainsi que pour son abondance de plages, de montagnes, de chaînes et de déserts, ce qui le rend populaire sous le nom d'« Occident arabe ». Le Maroc, bien qu'il soit un pays de la région occidentale de l'Afrique du Nord, est centré sur la tradition islamique.",
+        "aboutchicago":"La Windy City est également connue comme la « maison du gratte-ciel » depuis que le concept de construction d'immeubles de grande hauteur s'est développé ici, et à l'heure actuelle, Chicago abrite 4 des 10 bâtiments les plus hauts du pays.",
+        "cruise":"Nos offres de croisière",
+        "Adventure":"Aventure de la mer",
+        "cruiseContent":"Meilleur. Jours. Jamais. Améliorez votre jeu de vacances à bord d'Adventure of the Seas®, un navire rempli de façons de jouer lors de courtes escapades. Les sensations fortes sont toujours au rendez-vous avec une plongée dans le duo de toboggans aquatiques The Perfect Storm℠. Ou escaladez le mur d'escalade pour une vue depuis le sommet. Applaudissez les plus audacieux lors de spectacles qui conquièrent la scène – et la patinoire. Et savourez un dîner qui trace un parcours culinaire du Japon à l'Italie. L'aventure vous appelle.",
+        "footer":{
+            "learn":"Apprendre encore plus",
+            "connect":"Connecter",
+            "partner":"Partenaire",
+            "aboutus":"À propos de nous",
+            "blog":"Blog",
+            "faq":"FAQ's",
+            "privacyPolicy":"politique de confidentialité",
+            "termsCondtion":"Termes et conditions",
+             "facebook":"Facebook",
+             "twitter":"Twitter",
+             "instagram":"Instagram",
+             "linkedin":"Linkedin",
+             "contact":"Contactez-nous",
+             "newyork":"La ville de New York",
+             "street":"Rue n°119",
+             "phoneNo":"+4859458949",
+             "travelwithus":"Voyagez avec nous. Nous proposons des voyages d'aventure à un prix abordable."
+        },
+        "formdata":{
+            "username":"nom d'utilisateur",
+            "password":"mot de passe",
+            "email":"E-mail"
+        }
+        
+    }
+}

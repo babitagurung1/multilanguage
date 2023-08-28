@@ -1,0 +1,48 @@
+.signup_wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.signup_outer {
+    background:linear-gradient(45deg, #7ac6e5, #69dce0);
+    padding:  30px;
+    border-radius: 10px;
+    width: 38%;
+}
+.form-group label{
+    color: white;
+    font-weight: 600;
+    padding-top: 10px;
+}
+button.signup_btn{
+    background-color: #00807f;
+}
+.sign_up_outer{
+    text-align: center;
+}
+.header_container {
+   
+    padding: 17px 20px;
+    display: flex;
+    justify-content: flex-end;
+}
+.auth_outer{
+    background-image: url("../../images//goa.jpg");
+    width: 100%;
+    
+}
+@media screen and (max-width:991px){
+    .signup_outer {
+        width: 55%;
+    }
+}
+@media screen and (max-width:767px){
+    .signup_wrapper{
+        padding: 0px 20px;
+        display: block;
+    }
+    .signup_outer{
+        width: 100%;
+    }
+}

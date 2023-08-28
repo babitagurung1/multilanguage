@@ -1,0 +1,47 @@
+{
+    "createAccount":"Crear cuenta",
+    "login":"Iniciar sesión",
+    "travel":"viajar",
+    "yourtravel":"Su viaje acaba de ser mejorado",
+    "travelSolution":"Por fin una solución de viaje solo para empleados de aerolíneas",
+    "getstart":"Empezar",
+    "travelContent":{
+        "travelplaces":"Poner el viaje en tus manos",
+        "japan":"Japón",
+        "greece":"Grecia",
+        "chicago":"Chicago",
+        "morocco":"Marruecos",
+        "aboutjapan":"En el norte, Hokkaido ofrece parques nacionales a gran escala, costas salvajes, fauna rara y el patrimonio de la cultura ainu. Nagano, menos",
+        "aboutgreece":"Grecia es famosa por sus playas increíbles. ¡Con las numerosas islas de Grecia se encuentran algunas de las playas más increíbles de Europa! Encontrarás muchos tipos de playas en toda Grecia, algunas de arena blanca y otras llenas de guijarros, pero todas tienen en común el hermoso océano turquesa.",
+        "aboutmorocco":"Marruecos es conocido por su cultura excepcionalmente rica centrada en la religión y la tradición y la abundancia de playas, montañas, cordilleras y desiertos, lo que lo hace popular como El Occidente árabe. Marruecos, aunque es un país de la región occidental del norte de África, se centra en la tradición islámica.",
+        "aboutchicago":"La Ciudad de los Vientos también es conocida como la Casa de los Rascacielos ya que aquí se desarrolló el concepto de construir edificios altos y, actualmente, Chicago alberga 4 de los 10 edificios más altos del país.",
+        "cruise":"Nuestras ofertas de cruceros",
+        "Adventure":"aventura del mar",
+        "cruiseContent":"Mejor. Días. Alguna vez. Mejora tus vacaciones a bordo del Adventure of the Seas®, un barco repleto de formas de jugar en escapadas cortas. Las emociones siempre están en el pronóstico con una zambullida en el dúo de toboganes acuáticos The Perfect Storm℠. O escala el muro de escalada para disfrutar de una vista desde arriba. Aplauda reverencias más atrevidas en espectáculos que conquistan el escenario y la pista de hielo. Y saboree una comida que traza un rumbo culinario desde Japón hasta Italia. La aventura está llamando.",
+        "footer":{
+            "learn":"aprende más",
+            "connect":"Conectar",
+            "partner":"Pareja",
+            "aboutus":"Sobre nosotros",
+            "blog":"Blog",
+            "faq":"FAQ's",
+            "privacyPolicy":"política de privacidad",
+            "termsCondtion":"Términos y Condiciones",
+             "facebook":"Facebook",
+             "twitter":"Twitter",
+             "instagram":"Instagram",
+             "linkedin":"Linkedin",
+             "contact":"Contáctenos",
+             "newyork":"Nueva York",
+             "street":"Calle nº 119",
+             "phoneNo":"+4859458949",
+             "travelwithus":"Viaja con nosotros. Ofrecemos viajes de aventuras a un precio asequible."
+        },
+        "formdata":{
+            "username":"Nombre de usuario",
+            "password":"Contraseña",
+            "email":"correo electrónico"
+        }
+    }
+
+}

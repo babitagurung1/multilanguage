@@ -1,0 +1,46 @@
+{
+    "createAccount":"Create Account",
+    "login":"Login",
+    "travel":"Travel",
+    "yourtravel":"Your Travel Just Got Upgrated",
+    "travelSolution":"Finally A travel solution just for you",
+    "getstart":"Get Start",
+    "travelContent":{
+        "travelplaces":"Putting Travel In Your Hands",
+        "japan":"Japan",
+        "greece":"Greece",
+        "chicago":"Chicago",
+        "morocco":"Morocco",
+        "aboutjapan":"In the north, Hokkaido offers large scale national parks, wild coastlines, rare fauna and the heritage of Ainu culture. Nagano, less than an hour from the bustling metropolis of Tokyo, features beautiful alps, year-round trekking, world-class skiing and canyoning.",
+        "aboutgreece":"Greece is famous for incredible beaches With Greece's many islands comes some of Europe's most incredible beaches! You'll find many types of beaches all over Greece, some of them with white sand and some of them full of pebbles, but they all have the beautiful turquoise ocean in common",
+        "aboutmorocco":"Morocco is Known for its uniquely rich culture centered on religion and tradition and abundance of beaches, mountains, ranges, and deserts, which makes it popular as “The Arab West.” Morocco though a country in the western region of North Africa, is centered on the Islamic tradition.",
+        "aboutchicago":"The Windy City is also known as the “Home of the Skyscraper” since the concept of constructing tall buildings developed here, and at the moment, Chicago is home to 4 of the country's 10 tallest buildings.",
+        "cruise":"Our Cruise Deals",
+        "Adventure":"Adventure of the sea",
+        "cruiseContent":"Best. Days. Ever. Level up your vacay game onboard Adventure of the Seas® — a ship packed with ways to play on short getaways. Thrills are always in the forecast with a plunge down The Perfect Storm℠ waterslide duo. Or scale the Rock Climbing Wall for a view from the top. Applaud bolder bows at shows that conquer the stage — and the ice rink. And savor dining that charts a culinary course from Japan to Italy. Adventure is calling.",
+        "footer":{
+            "learn":"Learn More",
+            "connect":"Connect",
+            "partner":"Partner",
+            "aboutus":"About Us",
+            "blog":"Blog",
+            "faq":"FAQ's",
+            "privacyPolicy":"Privacy Policy",
+            "termsCondtion":"Terms and Condition",
+             "facebook":"Facebook",
+             "twitter":"Twitter",
+             "instagram":"Instagram",
+             "linkedin":"Linkedin",
+             "contact":"Contact Us",
+             "newyork":"New york City",
+             "street":"Street No 119",
+             "phoneNo":"+4859458949",
+             "travelwithus":"Travel with us. We provide adventures travel in affordable price."
+        },
+        "formdata":{
+            "username":"Username",
+            "password":"Password",
+            "email":"Email"
+        }
+    }
+}

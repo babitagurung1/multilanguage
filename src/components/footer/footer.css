@@ -1,0 +1,21 @@
+ul li {
+    color: #5b6067;
+    font-size: 17px;
+    line-height: 30px;
+    font-weight: 600;
+}
+.footer_title{
+    color: #5b6067;
+}
+li i {
+    color: rebeccapurple;
+    padding: 0px 7px 0px 0px;
+}
+.footer_outer {
+    background: floralwhite;
+    padding: 20px;
+}
+ul li:first-child{
+    font-size: 22px;
+}
+

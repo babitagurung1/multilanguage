@@ -1,0 +1,10 @@
+/* h2,h1,h3,h4,h5,h6,p{
+    color: white;
+} */
+ul{
+    list-style: none;
+    padding-left: 0px;
+}
+section{
+    overflow: hidden;
+}

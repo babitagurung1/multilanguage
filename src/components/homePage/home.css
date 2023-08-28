@@ -1,0 +1,176 @@
+.Container{
+    background-image: url("../../images/goa.jpg");
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    background-repeat: no-repeat;
+    padding: 10px 20px 20px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn_outer {
+    display: flex;
+    gap: 20px;
+}
+
+button.create_btn {
+    background: green;
+    border: none;
+    color: white;
+    font-weight: 600;
+    padding: 10px 13px;
+    border-radius: 15px;
+    font-size: 16px;
+    height: 46px;
+    min-width: 141px;
+}
+button.login_btn{
+    background-color: aliceblue;
+    color: green;
+}
+.home_outer h2,h4{
+    text-align: center;
+}
+.startbtn{
+    text-align: center;
+}
+ button.getstart_btn{
+    color: #f6f4f4;
+    background: #79b3dc;
+    border: none;
+    height: 40px;
+    width: 110px;
+    font-weight: 500;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+.home_outer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+/* language btn */
+.select_language{
+    background: green;
+    border: none;
+    height: 40px;
+    width: 110px;
+    border-radius: 7px;
+    color: white;
+    padding: 0px 10px;
+    font-weight: 600;
+}
+.select_language:focus-visible{
+    outline: 0px;
+    border: unset;
+}
+/* travel */
+.travel_outer {
+    background: whitesmoke;
+    min-height: 100%;
+    width: 100%;
+    padding: 20px 20px;
+}
+.card{
+    min-height: 100%;
+}
+.travel_inner_content h2{
+color: #00a1ff;
+text-align: center;
+padding-top: 10px;
+}
+img.card-img-top {
+    height: 200px;
+}
+.travel_header h5 {
+    color: rebeccapurple;
+}
+.travel_header p {
+    font-size: 17px;
+    color: #258aab;
+    font-weight: 600;
+    line-height: 30px;
+}
+.cruise_outer{
+    background-image: url("../../images/ship.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 100%;
+    padding: 20px 40px;
+}
+.cruise_content{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100vh;
+}
+.cruise_content p {
+    font-weight: 500;
+    line-height: 36px;
+    padding-top: 30px;
+}
+.bar{
+    display: none;
+}
+.btn_container{
+    display: block;
+}
+@media screen and (max-width:767px){
+    .btn_container{
+        display: none;
+    }
+    .travel_container {
+        margin-top: 13px;
+    }
+    select.select_language {
+        margin: 0px 13px 0px;
+    }
+    
+    button.create_btn {
+        margin-top: 13px;
+    }
+    .header{
+        display: block;
+    }
+    .btn_outer{
+    display: flex;
+    flex-wrap: wrap;
+    
+    }
+    select.select_language {
+        margin: 0px 13px 0px;
+    }
+    button.create_btn {
+        margin-top: 13px;
+    }
+    
+    select.select_language option {
+        font-size: 10px;
+       
+    }
+    .cruise_content{
+        display: block;
+    }
+    .header_content{
+    justify-content: space-between;
+    align-items: center;
+    }
+    .bar{
+        display: block;
+        font-size: 25px;
+    }
+    .btn_wrapper{
+        display: block;
+    }
+}
+
+
+
+
+
